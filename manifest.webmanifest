@@ -1,0 +1,11 @@
+{
+  "id": "./",
+  "name": "Leaf 拾叶 · 每日英文阅读",
+  "short_name": "Leaf 拾叶",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#365e49",
+  "background_color": "#f8f8f3",
+  "icons": [{ "src": "./leaf.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
